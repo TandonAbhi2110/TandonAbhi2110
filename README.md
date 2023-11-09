@@ -1,4 +1,3 @@
-<img align="top" alt="Coding" width="1000" height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 <h1 align="center">Hi 👋, I'm Abhishek Tandon</h1>
 <h3 align="center">I love the logic and structure of coding and always strive to write elegant and efficient code.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU">
